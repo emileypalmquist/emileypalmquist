@@ -1,6 +1,9 @@
 ### Hi there 👋
+<!-- [![emiley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@emileypalmquist)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!--
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emileypalmquist&hide=java,objective-c,starlark)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Emiley's GitHub stats](https://github-readme-stats.vercel.app/api?username=emileypalmquist&count_private=true&show_icons=true&bg_color=ffe6a1&text_color=a7f7fc&title_color=5dd5de&icon_color=97d6e8&border_color=97d6e8&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)-->
+
 **emileypalmquist/emileypalmquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
